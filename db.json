@@ -1,11 +1,9 @@
 {
     "name": "Hector Vicencio",
     "ocupation": "Front-end Developer",
-    "favorite": {
-        "food": "pizza",
-        "animal": "cat",
-        "game": "Guitar Hero",
-        "pokemon": "pikachu"
-    },
+    "food": "pizza",
+    "animal": "cat",
+    "game": "Guitar Hero",
+    "pokemon": "pikachu",
     "age": "28"
 }
